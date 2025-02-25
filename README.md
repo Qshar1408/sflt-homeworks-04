@@ -30,7 +30,7 @@
 
 ---
 
-### *Terraform Playbook.*
+### *Terraform Playbook*
 #### Terraform: [main.tf](https://github.com/Qshar1408/sflt-homeworks-04/blob/main/files/main.tf)
 ```bash
 terraform {
@@ -149,5 +149,9 @@ output "external_ip_address_vm_1" {
 ![YCloud_001](https://github.com/Qshar1408/sflt-homeworks-04/blob/main/img/sflt04_001.png)
 ![YCloud_002](https://github.com/Qshar1408/sflt-homeworks-04/blob/main/img/sflt04_002.png)
 ![YCloud_003](https://github.com/Qshar1408/sflt-homeworks-04/blob/main/img/sflt04_003.png)
+
+### *Скриншот статуса балансировщика и целевой группы*
 ![YCloud_004](https://github.com/Qshar1408/sflt-homeworks-04/blob/main/img/sflt04_004.png)
+
+### *Скриншот страницы, которая открылась при запросе IP-адреса балансировщика*
 ![YCloud_005](https://github.com/Qshar1408/sflt-homeworks-04/blob/main/img/sflt04_005.png)
